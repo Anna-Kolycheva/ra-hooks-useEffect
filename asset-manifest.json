@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-hooks-useEffect/static/css/main.03580604.chunk.css",
+    "main.js": "/ra-hooks-useEffect/static/js/main.19a9ab74.chunk.js",
+    "main.js.map": "/ra-hooks-useEffect/static/js/main.19a9ab74.chunk.js.map",
+    "runtime-main.js": "/ra-hooks-useEffect/static/js/runtime-main.7c81c255.js",
+    "runtime-main.js.map": "/ra-hooks-useEffect/static/js/runtime-main.7c81c255.js.map",
+    "static/js/2.5913a559.chunk.js": "/ra-hooks-useEffect/static/js/2.5913a559.chunk.js",
+    "static/js/2.5913a559.chunk.js.map": "/ra-hooks-useEffect/static/js/2.5913a559.chunk.js.map",
+    "static/js/3.ccfef168.chunk.js": "/ra-hooks-useEffect/static/js/3.ccfef168.chunk.js",
+    "static/js/3.ccfef168.chunk.js.map": "/ra-hooks-useEffect/static/js/3.ccfef168.chunk.js.map",
+    "index.html": "/ra-hooks-useEffect/index.html",
+    "static/css/main.03580604.chunk.css.map": "/ra-hooks-useEffect/static/css/main.03580604.chunk.css.map",
+    "static/js/2.5913a559.chunk.js.LICENSE.txt": "/ra-hooks-useEffect/static/js/2.5913a559.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c81c255.js",
+    "static/js/2.5913a559.chunk.js",
+    "static/css/main.03580604.chunk.css",
+    "static/js/main.19a9ab74.chunk.js"
+  ]
+}
