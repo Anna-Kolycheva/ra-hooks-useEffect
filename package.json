@@ -43,5 +43,5 @@
       "eslint-plugin-react-hooks": "^4.2.0",
       "prettier": "^2.4.1"
    },
-   "homepage": "https://Anna-Kolycheva.github.io/ra-hooks-useeffect/"
+   "homepage": "https://Anna-Kolycheva.github.io/ra-hooks-useEffect/"
 }
